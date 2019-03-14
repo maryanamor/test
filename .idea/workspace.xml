@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa6ed733-f3e8-4b20-bde0-708648e093dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SearchPanel/SearchPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SearchPanel/SearchPanel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ItemStatusFilter/ItemStatusFilter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ItemStatusFilter/ItemStatusFilter.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,9 +19,9 @@
     <session id="-1905881670">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="2" />
@@ -30,7 +29,7 @@
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -38,7 +37,7 @@
           <entry key="css" value="21" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="4" />
-          <entry key="js" value="51" />
+          <entry key="js" value="52" />
           <entry key="json" value="2" />
           <entry key="md" value="1" />
         </counts>
@@ -48,7 +47,7 @@
           <entry key="CSS" value="21" />
           <entry key="HTML" value="4" />
           <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="51" />
+          <entry key="JavaScript" value="52" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -57,19 +56,19 @@
         <counts>
           <entry key="css" value="94" />
           <entry key="html" value="55" />
-          <entry key="js" value="6829" />
+          <entry key="js" value="7526" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="94" />
           <entry key="HTML" value="55" />
-          <entry key="JavaScript" value="6829" />
+          <entry key="JavaScript" value="7526" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="ESLintLanguageService" value="11" />
+          <entry key="ESLintLanguageService" value="12" />
         </counts>
       </usages-collector>
     </session>
@@ -79,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/AddItemForm/AddItemForm.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="330">
               <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -97,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/App/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="98" column="16" lean-forward="true" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+            <state relative-caret-position="365">
+              <caret line="114" selection-start-line="114" selection-end-line="114" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -109,10 +108,19 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/ItemStatusFilter/ItemStatusFilter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/TodoList/TodoList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="225">
               <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -133,7 +141,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/TodoListItem/TodoListItem.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="30">
               <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="36" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
@@ -180,7 +188,6 @@
         <option value="$PROJECT_DIR$/src/components/App/App.css" />
         <option value="$PROJECT_DIR$/src/components/App/index.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/components/ItemStatusFilter/ItemStatusFilter.js" />
         <option value="$PROJECT_DIR$/src/components/AddItem/AddItem.css" />
         <option value="$PROJECT_DIR$/src/components/AddItem/AddItem.js" />
         <option value="$PROJECT_DIR$/src/components/AddItem/index.js" />
@@ -191,6 +198,7 @@
         <option value="$PROJECT_DIR$/src/components/AddItemForm/AddItemForm.js" />
         <option value="$PROJECT_DIR$/src/components/SearchPanel/SearchPanel.js" />
         <option value="$PROJECT_DIR$/src/components/App/App.js" />
+        <option value="$PROJECT_DIR$/src/components/ItemStatusFilter/ItemStatusFilter.js" />
       </list>
     </option>
   </component>
@@ -210,11 +218,11 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="1" />
-    <option name="width" value="1538" />
-    <option name="height" value="1030" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="29" />
+    <option name="y" value="14" />
+    <option name="width" value="1891" />
+    <option name="height" value="1034" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -222,6 +230,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,20 +259,12 @@
               <item name="my-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="SearchPanel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="TodoList" type="462c0819:PsiDirectoryNode" />
+              <item name="ItemStatusFilter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,18 +329,19 @@
       <workItem from="1551104100593" duration="4028000" />
       <workItem from="1551351436569" duration="4222000" />
       <workItem from="1551453664812" duration="2410000" />
-      <workItem from="1552317805742" duration="1057000" />
+      <workItem from="1552317805742" duration="2485000" />
+      <workItem from="1552574192935" duration="2234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57032000" />
+    <option name="totallyTimeSpent" value="60694000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="1" width="1538" height="1030" extended-state="0" />
+    <frame x="0" y="-2" width="1920" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15577558" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124406956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -359,7 +361,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15577558" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124406956" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -504,13 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/ItemStatusFilter/ItemStatusFilter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/TodoListItem/TodoListItem.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -534,7 +529,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/AddItemForm/AddItemForm.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="330">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -549,12 +544,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/TodoListItem/TodoListItem.js">
+    <entry file="file://$PROJECT_DIR$/src/components/TodoList/TodoList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="36" />
+        <state relative-caret-position="225">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -566,23 +561,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/TodoList/TodoList.js">
+    <entry file="file://$PROJECT_DIR$/src/components/TodoListItem/TodoListItem.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="30">
+          <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="36" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/App/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="98" column="16" lean-forward="true" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+        <state relative-caret-position="365">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ItemStatusFilter/ItemStatusFilter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
         </state>
       </provider>
     </entry>
